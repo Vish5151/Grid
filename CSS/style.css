@@ -497,7 +497,7 @@
 
 .portfolio1
 {
-    background: url(/Grid/Images/e6a259e677860331e4474bd616f1fccf.webp);
+    background: url(/Images/e6a259e677860331e4474bd616f1fccf.webp);
     height: 600px;
     margin-top: 50px;
     position: relative;
@@ -506,7 +506,7 @@
 
 .portfolio1:hover
 {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/Grid/Images/e6a259e677860331e4474bd616f1fccf.webp);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/Images/e6a259e677860331e4474bd616f1fccf.webp);
 }
 
 .portfolio-card p,.portfolio-card h4
@@ -556,22 +556,22 @@
 
 .portfolio2
 {
-    background: url(/Grid/Images/L_Shape_Suede_Fabric_6_Seater_Sofa_Set_Luxury_Furniture_with_Solid_Wood_Frame_-_-3759327.webp);
+    background: url(/Images/L_Shape_Suede_Fabric_6_Seater_Sofa_Set_Luxury_Furniture_with_Solid_Wood_Frame_-_-3759327.webp);
 }
 
 .portfolio2:hover
 {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/Grid/Images/L_Shape_Suede_Fabric_6_Seater_Sofa_Set_Luxury_Furniture_with_Solid_Wood_Frame_-_-3759327.webp);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/Images/L_Shape_Suede_Fabric_6_Seater_Sofa_Set_Luxury_Furniture_with_Solid_Wood_Frame_-_-3759327.webp);
 }
 
 .portfolio3
 {
-    background: url(/Grid/Images/64ddd677842cdf3be3258ff7_1692259959608.jpg);
+    background: url(/Images/64ddd677842cdf3be3258ff7_1692259959608.jpg);
 }
 
 .portfolio3:hover
 {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/Grid/Images/64ddd677842cdf3be3258ff7_1692259959608.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/Images/64ddd677842cdf3be3258ff7_1692259959608.jpg);
 }
 
 .product-row
@@ -604,14 +604,14 @@
 
 .product1 .product-image
 {
-    background: url(/Grid/Images/Product-feat-img-3.jpg);
+    background: url(/Images/Product-feat-img-3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .product1 .product-image:hover
 {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/Grid/Images/Product-feat-img-3.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/Images/Product-feat-img-3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -619,14 +619,14 @@
 
 .product2 .product-image
 {
-    background: url(/Grid/Images/Product-list-img-2.jpg);
+    background: url(/Images/Product-list-img-2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .product2 .product-image:hover
 {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/Grid/Images/Product-list-img-2.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/Images/Product-list-img-2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -634,14 +634,14 @@
 
 .product3 .product-image
 {
-    background: url(/Grid/Images/Product-list-img-3.jpg);
+    background: url(/Images/Product-list-img-3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .product3 .product-image:hover
 {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/Grid/Images/Product-list-img-3.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/Images/Product-list-img-3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -770,7 +770,7 @@
 
 .video-section
 {
-    background: url(/Grid/Images/Video-background-img.jpg);
+    background: url(/Images/Video-background-img.jpg);
     background-size: cover;
     padding: 250px 0px;
     position: relative;
@@ -852,7 +852,7 @@ textarea
 .discover-section
 {
     margin-left: 100px;
-    background: url(/Grid/Images/Main-bottom-img.jpg);
+    background: url(/Images/Main-bottom-img.jpg);
     background-size: cover;
 
 }
